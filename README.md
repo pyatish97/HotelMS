@@ -4,4 +4,4 @@ It is a Hotel Management System project made for learning purpose. Entire System
 
 It can be used to book a room, getting lodging statistics. It is a desktop application.
 
-![alt text](https://raw.githubusercontent.com/pyatish97/HotelMS/screenshot_ui)
+![Screenshot](screenshot_ui)
